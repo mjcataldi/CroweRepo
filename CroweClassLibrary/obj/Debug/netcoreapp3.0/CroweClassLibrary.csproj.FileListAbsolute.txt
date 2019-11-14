@@ -1,0 +1,7 @@
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\bin\Debug\netcoreapp3.0\CroweClassLibrary.deps.json
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\bin\Debug\netcoreapp3.0\CroweClassLibrary.dll
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\bin\Debug\netcoreapp3.0\CroweClassLibrary.pdb
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\obj\Debug\netcoreapp3.0\CroweClassLibrary.AssemblyInfoInputs.cache
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\obj\Debug\netcoreapp3.0\CroweClassLibrary.AssemblyInfo.cs
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\obj\Debug\netcoreapp3.0\CroweClassLibrary.dll
+C:\Users\mcata\source\repos\CroweSolution\CroweClassLibrary\obj\Debug\netcoreapp3.0\CroweClassLibrary.pdb
