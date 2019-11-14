@@ -1,0 +1,14 @@
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.csprojAssemblyReference.cache
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.AssemblyInfo.cs
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.dll
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.pdb
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.exe
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.deps.json
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.runtimeconfig.json
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.runtimeconfig.dev.json
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.dll
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweConsoleApp.pdb
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweClassLibrary.dll
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\bin\Debug\netcoreapp3.0\CroweClassLibrary.pdb
+C:\Users\mcata\source\repos\CroweSolution\CroweConsoleApp\obj\Debug\netcoreapp3.0\CroweConsoleApp.csproj.CopyComplete

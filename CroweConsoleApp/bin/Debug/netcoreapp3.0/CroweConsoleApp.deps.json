@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CroweConsoleApp/1.0.0": {
+        "dependencies": {
+          "CroweClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CroweConsoleApp.dll": {}
+        }
+      },
+      "CroweClassLibrary/1.0.0": {
+        "runtime": {
+          "CroweClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CroweConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CroweClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
